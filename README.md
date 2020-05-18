@@ -2,3 +2,5 @@
 New updates
 
 new branch
+
+Develop is the default
